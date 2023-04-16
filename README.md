@@ -48,6 +48,8 @@ N/A
 ## Github Link
 https://github.com/tracij1286/Social-Network-API.git
 
+## Walkthrough
+https://drive.google.com/file/d/1ABfV9JDe-J9gRCv-FO_OT7pMOXivFE1V/view?usp=sharing
 
 
 
