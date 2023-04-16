@@ -84,7 +84,7 @@ const thoughtController = {
           return res.status(404).json({ message: "No thought with this id!" });
         }
 
-        // remove thought id from user's `thoughts` field
+        // this will remove thought id from user's `thoughts` field
         return User.findOneAndUpdate(
           { thoughts: params.id },
           { $pull: { thoughts: params.id } }, //$pull removes from an existing values that match a specified condition.
@@ -102,7 +102,7 @@ const thoughtController = {
       .catch((err) => res.json(err));
   },
 
-  // add reaction
+  // add reaction to thought
   addReaction({ params, body }, res) {
     Thought.findOneAndUpdate(
       { _id: params.thoughtId },

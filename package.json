@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/tracij1286/Social-Network-API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/tracij1286/Social-Network-API.git"
   },
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/tracij1286/Social-Network-API.git",
   "dependencies": {
     "express": "^4.17.3",
     "mongoose": "^6.2.9"
