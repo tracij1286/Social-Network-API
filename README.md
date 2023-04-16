@@ -35,9 +35,10 @@ npm start
 
 
 ## Usage
-![alt text](/public/images/screenshot.png)
-
-
+![alt text](/utils/images/screenshot.png)
+![alt text](/utils/images/screenshot2.png)
+![alt text](/utils/images/screenshot3.png)
+![alt text](/utils/images/screenshot4.png)
 
 ## Contributors
 its a pubic repo, contributors are welcome to add to this application.
